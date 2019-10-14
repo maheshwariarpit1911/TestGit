@@ -11,4 +11,6 @@ public class App
         System.out.println( "This is test branch" );
     
     }
+    
+    System.out.println( "Release 11 branch" );
 }
